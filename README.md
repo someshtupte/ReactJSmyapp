@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-this is the first commit from github
+this is the first commit from github by somesh tupte
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
